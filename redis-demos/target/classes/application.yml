@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: redis-demo
-  redis:
-    host: 47.104.230.2
-    port: 6390
-    password: 123
