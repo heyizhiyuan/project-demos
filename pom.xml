@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>bloomfilter-demos</module>
+        <module>redis-demos</module>
     </modules>
 
     <properties>
