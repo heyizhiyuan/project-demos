@@ -6,7 +6,7 @@
  * 功能实现需要的API
  * SADD key member1[member2]： 添加一个或多个参与用户
  * SRANDMEMBER key [count]: 随机返回一个或多个用户
- * SPOP key: 随机返回一个或多个用户,并返回删除的用户
+ * SPOP key: 随机删除一个或多个用户,并返回删除的用户
  * SRANDMEMBER 适用于可以重复抽取的情况。
  * SPOP 适用于只能抽取一次的情况，用的比较多。
  * @author czz

@@ -21,6 +21,7 @@ public class UserLotteryService {
     }
 
     /**
+     * 添加抽奖参与者
      *  @param lotteryId
      * @param userIds
      * @return
@@ -30,7 +31,7 @@ public class UserLotteryService {
     }
 
     /**
-     *
+     * 抽奖
      * @param lotteryId
      * @return
      */
